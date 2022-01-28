@@ -1,4 +1,4 @@
-// Create the playable character
+// Create the playable characters
 const pc = newPlayableCharacter(100, 110)
 
 // Create a non-playable character
